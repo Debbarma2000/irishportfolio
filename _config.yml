@@ -16,15 +16,18 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
+  - {file: "index.md", title: "Home", icon: home}
   - {file: "README.md", title: "About me"}
   - {file: "blog.md", title: "Blog"}
   - {file: "CV.md", title: "CV"}
+  - {file: "math_post.md", title: "Work"}
+  - {file: "publication.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:irishdb29@gmail.com"}
   - {title: Github, icon: github, url: "https://debbarma2000.github.io"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/irishdebbarma"}
+  - {title: LinkedIn, icon: linkedin, url: "http://linkedin.com/in/irish-debbarma-b007701a5"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
