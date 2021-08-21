@@ -15,7 +15,6 @@ I am a regular football player with loyalties to no club. I enjoy cycling and tr
 
 - Fluent in English, Hindi, Bengali, Kokborok (mother tongue)
 - Won the inter hostel football tournament held at IISc in 2019.
-- 
 
 That is all about me. I would like you all to read this favourite poem of mine before you wander off to other places: 
 
