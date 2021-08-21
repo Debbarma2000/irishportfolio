@@ -1,3 +1,8 @@
+---
+layout : "page"
+title : "Hello"
+---
+
 ![](/Users/irishdebbarma/Documents/GitHub/irishportfolio/IMG_2228.jpg)
 
 I am Irish Debbarma, an undergraduate at the Indian Institute of Science, Bangalore. 
