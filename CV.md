@@ -1,3 +1,8 @@
+---
+layout : "page"
+title : "Curriculum Vitae"
+---
+
 ## **Contact Information**
 - Personal email : irishdb29 [at] gmail [dot] com
 - Work email : irishd [at] iisc [dot] ac [dot] in
